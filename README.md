@@ -47,7 +47,7 @@ appsettings.json                ← Connection string config
 ### 1. Clone / Open the Project
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/sujan-roy24/Personal-Information-Management-System.git
 cd Personal_Info_Management_System
 ```
 
@@ -136,8 +136,3 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 | `/PersonalInfo/GetAll` | JSON endpoint for DataTable AJAX |
 
 ---
-
-## Submitted By
-
-Assignment for: **Zero Byte Software Solutions**  
-Role: ASP.NET MVC Developer
