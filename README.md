@@ -36,7 +36,7 @@ appsettings.json                ← Connection string config
 
 ## Prerequisites
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (LocalDB, Express, or full)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/) or VS Code
 
