@@ -1,6 +1,6 @@
 # Personal Information Management System
 
-An ASP.NET MVC application for managing personal information records, built with .NET 8, Entity Framework Core, SQL Server, Bootstrap 5, and jQuery DataTables.
+An ASP.NET MVC application for managing personal information records, built with .NET 9, Entity Framework Core, SQL Server, Bootstrap 5, and jQuery DataTables.
 
 ---
 
@@ -111,9 +111,9 @@ Navigate to: `https://localhost:5001` or `http://localhost:5000`
 ## NuGet Packages Required
 
 ```xml
-<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
-<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0" />
-<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0" />
+<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.13" />
+<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.13" />
+<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.13" />
 ```
 
 Install via Package Manager:
